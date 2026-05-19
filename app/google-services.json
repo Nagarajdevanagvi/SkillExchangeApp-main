@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308229937340",
+    "project_id": "skillexchangeapp-1c86b",
+    "storage_bucket": "skillexchangeapp-1c86b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308229937340:android:497d7650007f98099b18b9",
+        "android_client_info": {
+          "package_name": "com.prathi.skillexchange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkEwUcWrNct5SFso2DJJbldh3UcWQ5GQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
